@@ -14,7 +14,7 @@
 - NLP (NLTK, TextBlob, Pattern, WordCloud)
 - PyCaret
 - Computer Vision with OpenCV (Face Detection)
-- Airflow
+- Apache Airflow
 - MinIO
 
 <!---
