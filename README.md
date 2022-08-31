@@ -5,6 +5,18 @@
 - 📫 How to reach me: diegobragagomes@hotmail.com
 - www.linkedin.com/in/diego-braga-254960160
 
+**Technologies**:
+
+- Pandas, Matplotlib, Seaborn, Plotly
+- SQL
+- Machine Learning (Supervised, Unsupervised, Dimension Reduction) via Scikit-learn
+- Scrapy
+- NLP (NLTK, TextBlob, Pattern, WordCloud)
+- PyCaret
+- Computer Vision with OpenCV (Face Detection)
+- Airflow
+- Minio
+
 <!---
 diegobragagomes/diegobragagomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
