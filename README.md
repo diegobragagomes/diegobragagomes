@@ -11,19 +11,19 @@ www.linkedin.com/in/diego-braga-254960160
 
 **Technologies**:
 
-💻 Uso diário:
+💻 Daily:
 
 Python, MySQL, Git, Github, VS Code
 
-🎲 Ciência de dados:
+🎲 Data Science:
 
 Pandas, Numpy, Scikit Learn, Jupyter, MatplotLib, Seaborn, Plotly, NLP
 
-⚙️ Engenharia de dados:
+⚙️ Data Engineering:
 
 Airflow, MinIO, Docker
 
-👓 Visão Computacional:
+👓 Computer Vision:
 
 OpenCV
 
