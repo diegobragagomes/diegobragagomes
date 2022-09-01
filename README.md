@@ -1,8 +1,8 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-braga-254960160//)](https://www.linkedin.com/in/karinnecristinapereira/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-braga-254960160//)](https://www.linkedin.com/in/diego-braga-254960160/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=gomes.diegobraga@gmail.com)](gomes.diegobraga@gmail.com)
 
 <p align="center">
-  <img src="https://github.com/karinnecristina/karinnecristina/blob/master/Banner.gif" alt="animated" />
+  <img src="https://github.com/diegobragagome/diegobragagomes/blob/master/Banner.gif" alt="animated" />
 </p>
 
 **Aspirante à Cientista de Dados** com foco nos processos de análise, pré-processamento de dados e desenvolvimento de modelos analíticos (preditivos e descritivos), além do aprendizado e utilização de ferramentas que auxiliem os demais processos que apoiem as equipes envolvidas.
@@ -33,10 +33,8 @@
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  
  #### 🌱 Estou aprendendo:
- ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
- ![Kibana](https://img.shields.io/badge/Kibana-black?style=flat-square&logo=Kibana)
- ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
- ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
+ ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
+ ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
  
  
  <br>
