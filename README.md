@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-braga-254960160//)](https://www.linkedin.com/in/diego-braga-254960160/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=gomes.diegobraga@gmail.com)](gomes.diegobraga@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=gomes.diegobraga@gmail.com//)](gomes.diegobraga@gmail.com)
 
 <p align="center">
   <img src="https://github.com/diegobragagomes/diegobragagomes/blob/main/discord-banner.gif" alt="animated" />
