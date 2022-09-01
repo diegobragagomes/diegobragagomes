@@ -1,39 +1,52 @@
-👋 Hi, I’m Diego Braga
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-braga-254960160//)](https://www.linkedin.com/in/karinnecristinapereira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=gomes.diegobraga@gmail.com)](gomes.diegobraga@gmail.com)
 
-👀 I’m interested in Data Science
+<p align="center">
+  <img src="https://github.com/karinnecristina/karinnecristina/blob/master/Banner.gif" alt="animated" />
+</p>
 
-🌱 I’m currently learning Minio and Airflow, also Machine Learning algorithms and Exploratory Data Analysis.
+**Aspirante à Cientista de Dados** com foco nos processos de análise, pré-processamento de dados e desenvolvimento de modelos analíticos (preditivos e descritivos), além do aprendizado e utilização de ferramentas que auxiliem os demais processos que apoiem as equipes envolvidas.
 
-💞️ I’m looking to collaborate on project which involve data science to pursue development for a business.
+<br>
 
-📫 How to reach me: diegobragagomes@hotmail.com
-www.linkedin.com/in/diego-braga-254960160
+ ## **Linguagens e Ferramentas:**
 
-**Technologies**:
+ #### 💻 Uso diário:
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ 
+ #### 🎲 Ciência de dados:
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+ ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+ ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=Seaborn)
+ ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib)
 
-💻 Daily:
+ #### ⚙️ Engenharia de dados:
+ ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
+ ![MinIO](https://img.shields.io/badge/-MinIO-black?style=flat-square&logo=MinIO)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+ 
+ #### 🌱 Estou aprendendo:
+ ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
+ ![Kibana](https://img.shields.io/badge/Kibana-black?style=flat-square&logo=Kibana)
+ ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
+ ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
+ 
+ 
+ <br>
 
-Python, MySQL, Git, Github, VS Code
+<b> :chart_with_upwards_trend: Estatísticas</b>:
 
-🎲 Data Science:
+<a href="https://github.com/diegobragagomes">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=diegobragagomes&show_icons=true&theme=dark&include_commits=true"/>
+</a>
 
-Pandas, Numpy, Scikit Learn, Jupyter, MatplotLib, Seaborn, Plotly, NLP
-
-⚙️ Data Engineering:
-
-Airflow, MinIO, Docker
-
-👓 Computer Vision:
-
-OpenCV
-
-<!---
-diegobragagomes/diegobragagomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-#
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobragagomes&layout=compact)](https://github.com/diegobragagomes/github-readme-stats)
-
-
+<a href="https://github.com/diegobragagomes">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobragagomes&layout=compact&langs_count=8&theme=dark"/>
+</a>
