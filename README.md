@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=gomes.diegobraga@gmail.com)](gomes.diegobraga@gmail.com)
 
 <p align="center">
-  <img src="https://github.com/diegobragagome/diegobragagomes/giphy.gif" alt="animated" />
+  <img src="https://github.com/diegobragagomes/diegobragagomes/giphy.gif" alt="animated" />
 </p>
 
 **Aspirante à Cientista de Dados** com foco nos processos de análise, pré-processamento de dados e desenvolvimento de modelos analíticos (preditivos e descritivos), além do aprendizado e utilização de ferramentas que auxiliem os demais processos que apoiem as equipes envolvidas.
