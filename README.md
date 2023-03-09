@@ -5,7 +5,7 @@
   <img src="https://github.com/diegobragagomes/diegobragagomes/blob/main/discord-banner.gif" alt="animated" />
 </p>
 
-**Aspirante à Cientista de Dados** com foco nos processos de análise, pré-processamento de dados e desenvolvimento de modelos analíticos (preditivos e descritivos), além do aprendizado e utilização de ferramentas que auxiliem os demais processos que apoiem as equipes envolvidas.
+**Aspirante à Analista de Dados**, com foco nos processos de análise, pré-processamento de dados e desenvolvimento de modelos analíticos descritivos, além do aprendizado e utilização de ferramentas que auxiliem os demais processos que apoiem as equipes envolvidas.
 
 <br>
 
