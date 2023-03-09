@@ -13,12 +13,13 @@
 
  #### 💻 Uso diário:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+ ![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-blue)
  
- #### 🎲 Ciência de dados:
+ #### 🎲 Análise/Ciência de dados:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
@@ -28,13 +29,13 @@
  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib)
 
  #### ⚙️ Engenharia de dados:
- ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
- ![MinIO](https://img.shields.io/badge/-MinIO-black?style=flat-square&logo=MinIO)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+ ![Minio](https://img.shields.io/badge/-Minio-blue)
  
  #### 🌱 Estou aprendendo:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
+ ![AWS](https://img.shields.io/badge/-AWS-blue)
  
  
  <br>
